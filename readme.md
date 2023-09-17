@@ -4,8 +4,6 @@ This is a Hello World! program written in C++.
 
 I created this program as a demonstration in C++ as well as to host a simple project in my GitHub.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
 [Software Demo Video](https://youtu.be/YGOdUHt_9XQ)
 
 # Development Environment
