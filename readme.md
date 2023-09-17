@@ -18,4 +18,4 @@ I coded in C++, a rather popular language that I am familiar with.
 
 List of websites that I found helpful in this project:
 * [Google](https://www.google.com/)
-* [Web Site Name](https://chat.openai.com/)
+* [ChatGPT](https://chat.openai.com/)
